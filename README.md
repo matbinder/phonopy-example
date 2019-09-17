@@ -2,5 +2,5 @@
 use phonoLAMMPS: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/phonopy-example/master?filepath=phonolammps.ipynb)
 
-use dynaphopy:
+use DynaPhoPy:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/phonopy-example/master?filepath=dynaphopy.ipynb)
