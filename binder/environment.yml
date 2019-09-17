@@ -4,5 +4,5 @@ dependencies:
 - python
 - phonopy
 - phonolammps
-- DynaPhoPy
+- dynaphopy
 - Lammps
