@@ -3,6 +3,6 @@ channels:
 dependencies:
 - python
 - phonopy
-- phonolammps
+- phonolammps >=1.16.6
 - dynaphopy
 - Lammps
